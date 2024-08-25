@@ -1,9 +1,8 @@
 # Hello, I'm Spencer
 <a href="https://www.linkedin.com/in/spencer-mccain-67b72a319/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent cybersecurity bootcamp graduate. I’m passionate about continuous learning and eager to apply my skills to help safeguard digital assets and stay ahead of emerging threats.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
