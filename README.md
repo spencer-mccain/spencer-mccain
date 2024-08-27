@@ -5,9 +5,9 @@
 I am a recent cybersecurity bootcamp graduate. I’m passionate about continuous learning and eager to apply my skills to help safeguard digital assets and stay ahead of emerging threats.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+I am an aspiring cybersecurity analyst with foundational knowledge and practical experience seeking a junior analyst role to apply analytical skills and support in identifying and mitigating security threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
