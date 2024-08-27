@@ -5,7 +5,7 @@ I am a recent cybersecurity bootcamp graduate. I’m passionate about continuous
 
 ## Objective
 
-Aspiring cybersecurity analyst seeking a junior analyst position to hone my foundational knowledge and skills while contributing to the organization's security efforts. I am eager to grow my career with the company, leveraging opportunities for professional development and advancement within a dynamic and supportive environment.
+Aspiring cybersecurity analyst seeking Tier 1 Analyst position in a Security Operations Center (SOC) to hone my knowledge and skills while contributing to the organization's security efforts. I am eager to grow my career with the company, leveraging opportunities for professional development and advancement within a dynamic and supportive environment.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
