@@ -1,13 +1,11 @@
 # Hello, I'm Spencer
 <a href="https://www.linkedin.com/in/spencer-mccain-67b72a319/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a recent cybersecurity bootcamp graduate. I’m passionate about continuous learning and eager to apply my skills to help safeguard digital assets and stay ahead of emerging threats.
+I am a recent cybersecurity bootcamp graduate. I’m passionate about continuous learning and eager to apply my skills to help safeguard digital assets and stay ahead of emerging threats. 
 
 ## Objective
 
-
-I am an aspiring cybersecurity analyst with foundational knowledge and practical experience seeking a junior analyst role to apply analytical skills and support in identifying and mitigating security threats.
+Aspiring cybersecurity analyst seeking a junior analyst position to hone my foundational knowledge and skills while contributing to the organization's security efforts. I m eager to grow my career with the company, leveraging opportunities for professional development and advancement within a dynamic and supportive environment.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
